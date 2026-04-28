@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Amandeep%20Verma)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Amandeep%20Verma&fontColor=ffffff)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Focused)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+Backend+Focused)
 
 # Hi 👋 I'm Amandeep Verma
 
