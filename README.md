@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=15,8b31ff,702d91&height=300&section=header&text=Amandeep%20Verma&desc=Full%20Stack%20Developer%20%7C%20JavaScript%20Enthusiast&fontSize=70&descSize=25&fontAlignY=40&descAlignY=60&animation=twinkling" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Welcome%20to%20my%20profile!&fontSize=55&fontAlignY=40&animation=fadeIn)
 
 # Hi 👋 I'm Amandeep Verma
 
