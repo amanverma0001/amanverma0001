@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=Welcome%20to%20my%20profile!&fontSize=55&fontAlignY=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=250&section=header&text=Amandeep%20Verma&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused&descSize=22&descAlignY=60&animation=fadeIn)
 
 # Hi 👋 I'm Amandeep Verma
 
