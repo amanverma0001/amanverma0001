@@ -34,6 +34,11 @@ Currently focused on building scalable, production-ready web applications with c
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&border_radius=10" alt="Most Used Languages" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma0001&theme=radical&border_radius=10" alt="Amandeep's GitHub Streak" />
+    </td>
+  </tr>
 </table>
 
 ---
