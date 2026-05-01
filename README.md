@@ -84,6 +84,12 @@ Git, GitHub, Postman, VS Code, npm, MongoDB Atlas, ESLint
 - Implemented dark/light mode, real-time P&L tracking, and animated charts
 - Tech: React.js, Node.js, Express.js, MongoDB, Chart.js
 
+**🔷 Ignite Fitness - Training & Activity Tracker**
+- Developed a comprehensive full-stack fitness tracking application for managing workouts and health goals
+- Features real-time activity monitoring using Socket.io and interactive progress charts with Recharts
+- Implemented secure user authentication and personalized training plans
+- Tech: React.js, Node.js, Express.js, MongoDB, Socket.io, Recharts
+
 ---
 
 ## 📌 Current Focus
