@@ -126,7 +126,7 @@ Git, GitHub, Postman, VS Code, npm, MongoDB Atlas, ESLint
   </a>
   &nbsp;
   
-  <a href="mailto:amandeepverma301@gmail.com?subject=Let's%20Connect&body=Hi%20Amandeep,%20I%20came%20across%20your%20GitHub%20profile..." target="_blank">
+  <a href="mailto:amandeepverma3001@gmail.com?subject=Let's%20Connect&body=Hi%20Amandeep,%20I%20came%20across%20your%20GitHub%20profile..." target="_blank">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
