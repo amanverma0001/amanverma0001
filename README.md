@@ -63,21 +63,20 @@ Currently focused on building scalable, production-ready web applications with c
 
 ## 🧠 Skills
 
-**Programming Languages:**\
-JavaScript, TypeScript, C++, Python, SQL
+### 🟣 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Development:**\
-React.js, Node.js, Express.js, MongoDB, REST APIs, Full-Stack Development, HTML, CSS
+### 🔴 Development
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**UI / UX:**\
-Responsive Design, Component-Based Architecture, CSS Animations, Material UI
+### 🎨 UI / UX
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF416C?style=flat-square&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![CSS Animations](https://img.shields.io/badge/CSS%20Animations-1572B6?style=flat-square&logo=css3&logoColor=white) ![Component Architecture](https://img.shields.io/badge/Component%20Architecture-8E2DE2?style=flat-square&logoColor=white)
 
-**Testing & Debugging:**\
-Test Case Design, Bug Reporting, API Testing, Workflow Testing, Edge Case Analysis
+### 🧪 Testing & Debugging
+![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-DC143C?style=flat-square&logoColor=white) ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-6A0DAD?style=flat-square&logoColor=white) ![Edge Case Analysis](https://img.shields.io/badge/Edge%20Case%20Analysis-2E86AB?style=flat-square&logoColor=white)
 
-**Tools & Technologies:**\
-Git, GitHub, Postman, VS Code, npm, MongoDB Atlas, ESLint
-
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ---
 
 ## 📂 Projects
