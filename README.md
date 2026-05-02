@@ -112,9 +112,36 @@ Git, GitHub, Postman, VS Code, npm, MongoDB Atlas, ESLint
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandeep-verma-8853a428a/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanverma0001)
+---
 
-📍 Saharanpur, India
+<p align="center">
+  If you're building something ambitious in AI, automation, or full-stack — I'd love to talk.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amandeep-verma-8853a428a/" target="_blank">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  
+  <a href="mailto:amandeepverma301@gmail.com?subject=Let's%20Connect&body=Hi%20Amandeep,%20I%20came%20across%20your%20GitHub%20profile..." target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+
+  <a href="https://drive.google.com/file/d/1Aazbj1R_Z9prucg2JHHMJdHVVAuUGzeq/preview" target="_blank">
+    <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+<p align="center">
+  📌 <b>Open to:</b> AI/ML Internships &nbsp; · &nbsp; Full-Stack Roles &nbsp; · &nbsp; Research Collaborations &nbsp; · &nbsp; Freelance AI Projects
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:4A00E0,100:0d1117&height=220&section=footer&text=Open%20to%20Opportunities&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Moving Banner" />
+</p>
