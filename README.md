@@ -45,6 +45,10 @@ Currently focused on building scalable, production-ready web applications with c
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanverma0001&theme=radical" width="49%" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=FF416C&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
 ---
 
 ## 🚀 About Me
