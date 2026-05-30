@@ -4,7 +4,7 @@
 
 **Full Stack Web Developer | JavaScript Enthusiast | MERN Stack Developer**
 
-I'm a B.Tech Computer Science student with hands-on experience in Full-Stack web development, building real-world applications using the MERN stack.
+I am a B.Tech Computer Science student with hands-on experience in Full-Stack web development, building real-world applications using the MERN stack.
 
 Currently focused on building scalable, production-ready web applications with clean UI/UX and robust backends.
 
