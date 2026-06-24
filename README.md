@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF416C,100:F7971E&height=250&section=header&text=Amandeep%20Verma&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused&descSize=22&descAlignY=58&descColor=ffffff&animation=fadeIn)
 
-# Hii 👋 I'm Amandeep Verma
+# Hiii 👋 I'm Amandeep Verma
 
 **Full Stack Web Developer | JavaScript Enthusiast | MERN Stack Developer**
 
