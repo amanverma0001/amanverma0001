@@ -2,7 +2,7 @@
 
 # Hiii 👋 I'm Amandeep Verma
 
-**Full Stack Web Developer | JavaScript Enthusiast | MERN Stack Developer.**
+**Full Stack Web Developer | JavaScript Enthusiast | MERN Stack Developer/.**
 
 I am a B.Tech Computer Science student with hands-on experience in Full-Stack web development, building real-world applications using the MERN stack.
 
