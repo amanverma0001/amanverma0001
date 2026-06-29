@@ -6,7 +6,7 @@
 
 I am a B.Tech Computer Science student with hands-on experience in Full-Stack web development, building real-world applications using the MERN stack.
 
-Currently focused on building scalable, production-ready web applications with clean UI/UX and robust backends.
+Currently focused on building scalable, production-ready web applications with clean UI/UX and robust backends...
 
 ---
 
