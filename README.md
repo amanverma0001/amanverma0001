@@ -148,3 +148,5 @@ Currently focused on building scalable, production-ready web applications with c
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF416C,100:F7971E&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Moving Banner" />
 </p>
+
+<!-- update 1 -->
