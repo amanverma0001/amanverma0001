@@ -38,12 +38,12 @@ Currently focused on building scalable, production-ready web applications with c
 ## 🧠 Contribution Summary:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanverma0001&theme=radical" width="100%" alt="Contribution Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanverma0001&theme=radical&v=1" width="100%" alt="Contribution Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanverma0001&theme=radical" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanverma0001&theme=radical" width="49%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanverma0001&theme=radical&v=1" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanverma0001&theme=radical&v=1" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
