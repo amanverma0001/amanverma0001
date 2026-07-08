@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF416C,100:F7971E&height=250&section=header&text=Amandeep%20Verma&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused&descSize=22&descAlignY=58&descColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Abhinav%20Verma&textBg=false&reversal=false§ion=header&rotate=0&desc=AI%20Developer%20|%20Creator&descAlign=50&descAlignY=80)
 
 # Hii 👋 I'm Amandeep Verma.
 
