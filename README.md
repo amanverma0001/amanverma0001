@@ -4,100 +4,26 @@
 
 # Hii 👋 I'm Amandeep Verma.
 
-**AI Engineer | Machine Learning Engineer | Generative AI**
+**AI Engineer | Machine Learning | Generative AI | DSA**
 
-I am a B.Tech Computer Science student passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy transforming data into AI-powered solutions that solve real-world problems.
+I am a B.Tech Computer Science student passionate about building intelligent systems using Artificial Intelligence and solving complex problems through Data Structures & Algorithms.
 
-Currently focused on Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Retrieval-Augmented Generation (RAG), Computer Vision, and AI Engineering while continuously building practical AI applications and expanding my expertise.
-
----
-
-## 💻 Tech Stack
-
-**🐍 AI Programming & Data Science:**\
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+Currently exploring Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Retrieval-Augmented Generation (RAG), Computer Vision, and AI Engineering while continuously strengthening my problem-solving skills through DSA and real-world AI projects.
 
 ---
-
-**🧠 Machine Learning & Deep Learning:**\
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6A1B9A?style=flat)
-![CNN](https://img.shields.io/badge/CNN-1E88E5?style=flat)
-![RNN](https://img.shields.io/badge/RNN-43A047?style=flat)
-![LSTM](https://img.shields.io/badge/LSTM-FB8C00?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-FFB300?style=flat)
-
----
-
-**🤖 Generative AI & LLMs:**\
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat)
-![LLMs](https://img.shields.io/badge/Large%20Language%20Models-5E35B1?style=flat)
-![RAG](https://img.shields.io/badge/RAG-3949AB?style=flat)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00897B?style=flat)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
-
----
-
-**⚙️ AI Engineering & Development:**\
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
----
-
-**💻 Programming Languages:**\
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-     <img src="https://github-readme-stats-eta-seven-55.vercel.app/api?username=amanverma0001&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10&hide_rank=true&include_all_commits=true" height="200" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10" height="200" alt="Top Languages" />
-
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&background=0d1117&border_radius=10&v=3" alt="GitHub Streak" />
-</p>
-
----
-
-## 🧠 Contribution Summary:
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanverma0001&theme=radical&v=1" width="100%" alt="Contribution Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanverma0001&theme=radical&v=1" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanverma0001&theme=radical&v=1" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=FF416C&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
-- 🐍 Strong foundation in Python, Data Science & AI Development
-- 🧠 Exploring Natural Language Processing (NLP), Large Language Models (LLMs) & Generative AI
-- 📊 Experienced with Data Preprocessing, Data Visualization & Machine Learning Algorithms
-- 🚀 Building intelligent AI-powered applications to solve real-world problems
----
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & Generative AI
+- 🐍 Strong foundation in Python, AI Development & Problem Solving
+- 🧠 Exploring Natural Language Processing (NLP), Large Language Models (LLMs), RAG & Computer Vision
+- 💻 Strong understanding of Data Structures & Algorithms, Object-Oriented Programming (OOP) and C++ STL
+- 📊 Experienced in Data Collection, Data Preprocessing, Data Visualization & Machine Learning Algorithms
+- 🚀 Building intelligent AI-powered applications while continuously improving DSA and software engineering skills
+<br>
+
+
+
 
 ## 🧠 Skills
 
@@ -132,9 +58,27 @@ Currently focused on Machine Learning, Deep Learning, Natural Language Processin
 
 ---
 
+### ⚡ Data Structures & Algorithms
+
+![Arrays](https://img.shields.io/badge/Arrays-0A66C2?style=flat)
+![Strings](https://img.shields.io/badge/Strings-6C63FF?style=flat)
+![STL](https://img.shields.io/badge/C++%20STL-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Recursion](https://img.shields.io/badge/Recursion-8E44AD?style=flat)
+![Backtracking](https://img.shields.io/badge/Backtracking-E67E22?style=flat)
+![Divide%20%26%20Conquer](https://img.shields.io/badge/Divide%20%26%20Conquer-2ECC71?style=flat)
+![Time Complexity](https://img.shields.io/badge/Time%20Complexity-34495E?style=flat)
+![Linked List](https://img.shields.io/badge/Linked%20List-3498DB?style=flat)
+![Stack](https://img.shields.io/badge/Stack-F39C12?style=flat)
+![Queue](https://img.shields.io/badge/Queue-16A085?style=flat)
+![Binary Tree](https://img.shields.io/badge/Binary%20Tree-27AE60?style=flat)
+![BST](https://img.shields.io/badge/Binary%20Search%20Tree-8E44AD?style=flat)
+![OOP](https://img.shields.io/badge/OOP-2980B9?style=flat)
+
+---
+
 ### 🤖 Generative AI
 
-![LLMs](https://img.shields.io/badge/Large%20Language%20Models-5E35B1?style=flat)
+![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-5E35B1?style=flat)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-3949AB?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00897B?style=flat)
@@ -145,11 +89,40 @@ Currently focused on Machine Learning, Deep Learning, Natural Language Processin
 ### 🛠️ AI Engineering
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+## 📊 GitHub Stats:
+
+<p align="center">
+     <img src="https://github-readme-stats-eta-seven-55.vercel.app/api?username=amanverma0001&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10&hide_rank=true&include_all_commits=true" height="200" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10" height="200" alt="Top Languages" />
+
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&background=0d1117&border_radius=10&v=3" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧠 Contribution Summary:
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanverma0001&theme=radical&v=1" width="100%" alt="Contribution Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanverma0001&theme=radical&v=1" width="49%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanverma0001&theme=radical&v=1" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=FF416C&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+---
 
 ## 📂 Projects
 
