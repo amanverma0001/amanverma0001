@@ -30,7 +30,7 @@ Currently focused on building scalable, production-ready web applications with c
     <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10" height="200" alt="Top Languages" />
 
   <br/>
-  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&background=0d1117&border_radius=10&v=2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&background=0d1117&border_radius=10&v=3" alt="GitHub Streak" />
 </p>
 
 ---
