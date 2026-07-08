@@ -95,6 +95,8 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
+<br>
+
 ## 📊 GitHub Stats:
 
 <p align="center">
@@ -142,17 +144,18 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
 
 ## 📌 Current Focus
 
-- Building production-ready full-stack web applications
-- Strengthening backend skills with Node.js and database design
-- Exploring advanced React patterns and performance optimization
-
+- 🤖 Building practical AI-powered applications using Machine Learning & Deep Learning
+- 🧠 Exploring Large Language Models (LLMs), Generative AI, RAG & Computer Vision
+- 💻 Strengthening Data Structures & Algorithms through consistent problem solving
+- 🐍 Improving AI Engineering skills with Python, PyTorch, Flask & OpenAI APIs
 ---
 
 ## 🎯 Goals
 
-- Grow as a Full Stack Software Engineer
-- Work on scalable and high-impact web systems
-- Build reliable and production-ready applications
+- 🚀 Become a skilled AI & Machine Learning Engineer
+- 🤖 Build scalable AI products powered by LLMs and Generative AI
+- 💻 Master Data Structures & Algorithms for software engineering interviews
+- 🌍 Contribute to impactful open-source AI projects and real-world intelligent systems
 
 ---
 
@@ -165,7 +168,7 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
 ---
 
 <p align="center">
-  If you're building something ambitious in AI, automation, or full-stack — I'd love to talk.
+  Interested in collaborating on AI, Machine Learning, Generative AI, and open-source projects that create real-world impact.
 </p>
 
 <p align="center">
@@ -183,11 +186,9 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
     <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
-
 <p align="center">
-  📌 <b>Open to:</b> AI/ML Internships &nbsp; · &nbsp; Full-Stack Roles &nbsp; · &nbsp; Research Collaborations &nbsp; · &nbsp; Freelance AI Projects
+  📌 <b>Open to:</b> AI/ML Internships &nbsp; · &nbsp; Generative AI Projects &nbsp; · &nbsp; DSA & Problem Solving &nbsp; · &nbsp; Research Collaborations
 </p>
-
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF416C,100:F7971E&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Moving Banner" />
