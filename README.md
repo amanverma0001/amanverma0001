@@ -4,24 +4,59 @@
 
 # Hii 👋 I'm Amandeep Verma.
 
-**Full Stack Web Developer | JavaScript Enthusiast | MERN Stack Developer..**
+**AI Engineer | Machine Learning Engineer | Generative AI**
 
-I am a B.Tech Computer Science student with hands-on experience in Full-Stack web development, building real-world applications using the MERN stack.
+I am a B.Tech Computer Science student passionate about building intelligent systems using Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy transforming data into AI-powered solutions that solve real-world problems.
 
-Currently focused on building scalable, production-ready web applications with clean UI/UX and robust backends.
+Currently focused on Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Retrieval-Augmented Generation (RAG), Computer Vision, and AI Engineering while continuously building practical AI applications and expanding my expertise.
 
 ---
 
-## 💻 Tech Stack:,
+## 💻 Tech Stack
 
-**🌐 Frontend & Backend:**\
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+**🐍 AI Programming & Data Science:**\
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-**🗄️ Database & Languages:**\
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-**🛠️ Tools & DevOps:**\
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+**🧠 Machine Learning & Deep Learning:**\
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6A1B9A?style=flat)
+![CNN](https://img.shields.io/badge/CNN-1E88E5?style=flat)
+![RNN](https://img.shields.io/badge/RNN-43A047?style=flat)
+![LSTM](https://img.shields.io/badge/LSTM-FB8C00?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-FFB300?style=flat)
+
+---
+
+**🤖 Generative AI & LLMs:**\
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-5E35B1?style=flat)
+![RAG](https://img.shields.io/badge/RAG-3949AB?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00897B?style=flat)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+**⚙️ AI Engineering & Development:**\
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+**💻 Programming Languages:**\
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -56,31 +91,65 @@ Currently focused on building scalable, production-ready web applications with c
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Strong foundation in full-stack development using the MERN stack
-- 🌐 Passionate about building real-world web applications
-- 🎨 Keen eye for UI/UX design and clean, responsive interfaces
-- 🔍 Interested in building scalable and reliable web systems
-
+- 🎓 B.Tech Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence, Machine Learning & Deep Learning
+- 🐍 Strong foundation in Python, Data Science & AI Development
+- 🧠 Exploring Natural Language Processing (NLP), Large Language Models (LLMs) & Generative AI
+- 📊 Experienced with Data Preprocessing, Data Visualization & Machine Learning Algorithms
+- 🚀 Building intelligent AI-powered applications to solve real-world problems
 ---
 
 ## 🧠 Skills
 
 ### 🟣 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔴 Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 🎨 UI / UX
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-FF416C?style=flat-square&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![CSS Animations](https://img.shields.io/badge/CSS%20Animations-1572B6?style=flat-square&logo=css3&logoColor=white) ![Component Architecture](https://img.shields.io/badge/Component%20Architecture-8E2DE2?style=flat-square&logoColor=white)
-
-### 🧪 Testing & Debugging
-![API Testing](https://img.shields.io/badge/API%20Testing-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-DC143C?style=flat-square&logoColor=white) ![Test Case Design](https://img.shields.io/badge/Test%20Case%20Design-6A0DAD?style=flat-square&logoColor=white) ![Edge Case Analysis](https://img.shields.io/badge/Edge%20Case%20Analysis-2E86AB?style=flat-square&logoColor=white)
-
-### 🛠️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ---
+
+### 🟢 Data Science & AI
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+---
+
+### 🔴 Machine Learning & Deep Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6A1B9A?style=flat)
+![CNN](https://img.shields.io/badge/CNN-1E88E5?style=flat)
+![RNN](https://img.shields.io/badge/RNN-43A047?style=flat)
+![LSTM](https://img.shields.io/badge/LSTM-F57C00?style=flat)
+![Transformers](https://img.shields.io/badge/Transformers-FFB300?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+---
+
+### 🤖 Generative AI
+
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-5E35B1?style=flat)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat)
+![RAG](https://img.shields.io/badge/RAG-3949AB?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00897B?style=flat)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+
+---
+
+### 🛠️ AI Engineering
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ## 📂 Projects
 
