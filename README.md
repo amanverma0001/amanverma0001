@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Amandeep%20Verma&fontColor=ffffff&fontSize=70&desc=Full%20Stack%20Developer%20|%20Backend%20Focused&descAlign=50&descAlignY=75)
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Banner">
+</p>
 
 # Hii 👋 I'm Amandeep Verma.
 
