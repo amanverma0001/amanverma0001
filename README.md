@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Amandeep%20Verma&textBg=false&reversal=false§ion=header&rotate=0&desc=Full%20Stack%20Developer%20|%20Backend%20Focused&descAlign=50&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Amandeep%20Verma&textBg=false&reversal=false§ion=header&rotate=0&desc=Full%20Stack%20Developer%20|%20Backend%20Focused&descAlign=50&descAlignY=80)
 
 # Hii 👋 I'm Amandeep Verma.
 
