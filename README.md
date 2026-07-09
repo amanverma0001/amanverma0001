@@ -6,12 +6,31 @@
 
 **AI Engineer | Machine Learning | Generative AI | DSA**
 
-I am a B.Tech Computer Science student passionate about building intelligent systems using Artificial Intelligence and solving complex problems through Data Structures & Algorithms.
+B.Tech Computer Science student with a strong passion for Artificial Intelligence and Data Structures & Algorithms.
 
-Currently exploring Machine Learning, Deep Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Generative AI, Retrieval-Augmented Generation (RAG), Computer Vision, and AI Engineering while continuously strengthening my problem-solving skills through DSA and real-world AI projects.
+Currently building AI-powered applications, solving DSA problems, and exploring Machine Learning, Deep Learning, LLMs, RAG, Computer Vision, and AI Engineering.
+
 
 ---
-## 🚀 About Me
+## 👋 About Me
+
+```python
+class AmandeepVerma:
+
+    role        = "AI Engineer | Machine Learning Enthusiast"
+
+    education   = "B.Tech Computer Science Engineering Student"
+
+    focus        = "Machine Learning | Deep Learning | Generative AI | Data Structures & Algorithms"
+
+    currently    = "Learning LLMs, RAG, Agentic AI & Solving DSA Problems"
+
+    skills       = "Python | C++ | SQL | PyTorch | Scikit-Learn | DSA | OOPS | C++ STL"
+
+    goal         = "Build intelligent AI systems that solve real-world problems"
+
+    fun_fact     = "I enjoy solving DSA problems and building AI applications 🤖"
+```
 
 - 🎓 B.Tech Computer Science Engineering Student
 - 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & Generative AI
