@@ -125,6 +125,12 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
 </p>
 
 ---
+<h2 align="center">🐍 Snake Eating my Github Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amanverma0001/amanverma0001/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+</p>
+<br>
 
 ## 📂 Projects
 
@@ -193,3 +199,5 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,50:FF416C,100:F7971E&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=28&fontColor=ffffff&animation=fadeIn" alt="Moving Banner" />
 </p>
+
+
