@@ -27,73 +27,85 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
 
 ## 🧠 Skills
 
-### 🟣 Programming Languages
+### 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
----
-
-### 🟢 Data Science & AI
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
 ---
 
-### 🔴 Machine Learning & Deep Learning
+### 📊 Data Science & AI
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9800?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-673AB7?style=flat)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-6A1B9A?style=flat)
-![CNN](https://img.shields.io/badge/CNN-1E88E5?style=flat)
-![RNN](https://img.shields.io/badge/RNN-43A047?style=flat)
-![LSTM](https://img.shields.io/badge/LSTM-F57C00?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-FFB300?style=flat)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-2E8B57?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-2E8B57?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-2E8B57?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+---
+
+### 🧠 Machine Learning & Deep Learning
+
+<p align="left">
+ <img src="https://img.shields.io/badge/Machine%20Learning-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neural%20Networks-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CNN-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RNN-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LSTM-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Transformers-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PyTorch-6A1B9A?style=for-the-badge&logo=pytorch&logoColor=white"/>
+</p>
 
 ---
 
 ### ⚡ Data Structures & Algorithms
 
-![Arrays](https://img.shields.io/badge/Arrays-0A66C2?style=flat)
-![Strings](https://img.shields.io/badge/Strings-6C63FF?style=flat)
-![STL](https://img.shields.io/badge/C++%20STL-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Recursion](https://img.shields.io/badge/Recursion-8E44AD?style=flat)
-![Backtracking](https://img.shields.io/badge/Backtracking-E67E22?style=flat)
-![Divide%20%26%20Conquer](https://img.shields.io/badge/Divide%20%26%20Conquer-2ECC71?style=flat)
-![Time Complexity](https://img.shields.io/badge/Time%20Complexity-34495E?style=flat)
-![Linked List](https://img.shields.io/badge/Linked%20List-3498DB?style=flat)
-![Stack](https://img.shields.io/badge/Stack-F39C12?style=flat)
-![Queue](https://img.shields.io/badge/Queue-16A085?style=flat)
-![Binary Tree](https://img.shields.io/badge/Binary%20Tree-27AE60?style=flat)
-![BST](https://img.shields.io/badge/Binary%20Search%20Tree-8E44AD?style=flat)
-![OOP](https://img.shields.io/badge/OOP-2980B9?style=flat)
+<p align="left">
+  <img src="https://img.shields.io/badge/Arrays-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Strings-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++%20STL-F57C00?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Recursion-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backtracking-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Divide%20%26%20Conquer-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time%20Complexity-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linked%20List-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Queue-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Binary%20Tree-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Binary%20Search%20Tree-F57C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-F57C00?style=for-the-badge"/>
+</p>
 
 ---
 
 ### 🤖 Generative AI
 
-![Large Language Models](https://img.shields.io/badge/Large%20Language%20Models-5E35B1?style=flat)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8E24AA?style=flat)
-![RAG](https://img.shields.io/badge/RAG-3949AB?style=flat)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00897B?style=flat)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white)
+<p align="left">
+ <img src="https://img.shields.io/badge/Large%20Language%20Models-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-D32F2F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI%20API-D32F2F?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ---
 
-### 🛠️ AI Engineering
+### 🛠️ AI Engineering & Tools
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Flask-424242?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-424242?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-424242?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-424242?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-424242?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-424242?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 <br>
 
@@ -106,6 +118,8 @@ Currently exploring Machine Learning, Deep Learning, Natural Language Processing
   <br/>
   <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&background=0d1117&border_radius=10&v=3" alt="GitHub Streak" />
 </p>
+
+
 
 ---
 
