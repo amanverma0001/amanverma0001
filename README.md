@@ -32,13 +32,6 @@ class AmandeepVerma:
     fun_fact     = "I enjoy solving DSA problems and building AI applications 🤖"
 ```
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning & Generative AI
-- 🐍 Strong foundation in Python, AI Development & Problem Solving
-- 🧠 Exploring Natural Language Processing (NLP), Large Language Models (LLMs), RAG & Computer Vision
-- 💻 Strong understanding of Data Structures & Algorithms, Object-Oriented Programming (OOP) and C++ STL
-- 📊 Experienced in Data Collection, Data Preprocessing, Data Visualization & Machine Learning Algorithms
-- 🚀 Building intelligent AI-powered applications while continuously improving DSA and software engineering skills
 <br>
 
 
