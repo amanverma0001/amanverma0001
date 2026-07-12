@@ -2,7 +2,7 @@
   <img src="./banner.svg" width="100%" alt="Banner">
 </p>
 
-# Hii 👋 I'm Amandeep Verma.
+# Hii 👋 I'm Amandeep Verma..
 
 **AI Engineer | Machine Learning | Generative AI | DSA**
 
