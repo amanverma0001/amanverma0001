@@ -12,7 +12,7 @@ Currently building AI-powered applications, solving DSA problems, and exploring 
 
 
 ---
-## 👋 About Me
+## 👋 About Me.
 
 ```python
 class AmandeepVerma:
