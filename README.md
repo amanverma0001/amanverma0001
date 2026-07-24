@@ -11,6 +11,10 @@
 <br />
 
 <p align="center">
+  <a href="https://amandeep.fit" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amandeep-verma-8853a428a/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
