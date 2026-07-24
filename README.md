@@ -2,13 +2,29 @@
   <img src="./banner.svg" width="100%" alt="Banner">
 </p>
 
-# Hii 👋 I'm Amandeep Verma..
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vcenter=true&width=750&lines=Building+AI-Powered+Applications...;Passionate+about+Machine+Learning+%26+Generative+AI;Exploring+LLMs%2C+RAG+%26+Deep+Learning;Solving+DSA+Problems+%26+Building+AI+Systems" alt="Typing SVG" />
+  </a>
+</p>
 
-**AI Engineer | Machine Learning | Generative AI | DSA**
+<br />
 
-B.Tech Computer Science student with a strong passion for Artificial Intelligence and Data Structures & Algorithms.
-
-Currently building AI-powered applications, solving DSA problems, and exploring Machine Learning, Deep Learning, LLMs, RAG, Computer Vision, and AI Engineering.
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_RESUME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/RESUME-2D8CFF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=amanverma0001&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
 
 ---
