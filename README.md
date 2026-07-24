@@ -11,20 +11,21 @@
 <br />
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/amandeep-verma-8853a428a/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:amandeepverma3001@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_RESUME_LINK" target="_blank">
+  <a href="https://drive.google.com/file/d/1Aazbj1R_Z9prucg2JHHMJdHVVAuUGzeq/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-2D8CFF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=amanverma0001&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
+
 
 
 ---
