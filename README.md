@@ -49,11 +49,7 @@ class AmandeepVerma:
     goal         = "Build intelligent AI systems that solve real-world problems"
     fun_fact     = "I enjoy solving DSA problems and building AI applications 🤖"
 ```
-
 <br>
-
-
-
 
 ## 🧠 Skills
 
