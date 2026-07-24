@@ -23,7 +23,8 @@
     <img src="https://img.shields.io/badge/RESUME-2D8CFF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=amanverma0001&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=amanverma0001&base=3500&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
 </p>
 
 
