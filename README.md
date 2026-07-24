@@ -30,23 +30,19 @@
 
 
 ---
-## 👋 About Me.
+<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" /> About Me</h2>
+
+
 
 ```python
 class AmandeepVerma:
 
     role        = "AI Engineer | Machine Learning Enthusiast"
-
     education   = "B.Tech Computer Science Engineering Student"
-
     focus        = "Machine Learning | Deep Learning | Generative AI | Data Structures & Algorithms"
-
     currently    = "Learning LLMs, RAG, Agentic AI & Solving DSA Problems"
-
     skills       = "Python | C++ | SQL | PyTorch | Scikit-Learn | DSA | OOPS | C++ STL"
-
     goal         = "Build intelligent AI systems that solve real-world problems"
-
     fun_fact     = "I enjoy solving DSA problems and building AI applications 🤖"
 ```
 
