@@ -171,7 +171,7 @@ class AmandeepVerma:
 <h2 align="center">🐍 Snake Eating my Github Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanverma0001/amanverma0001/output/github-contribution-grid-snake-dark.svg?v=9999" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/amanverma0001/amanverma0001/output/github-contribution-grid-snake-dark.svg?v=20260726" alt="Contribution Snake">
 </p>
 <br>
 
