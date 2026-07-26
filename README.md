@@ -155,11 +155,11 @@ class AmandeepVerma:
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api?username=amanverma0001&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10&hide_rank=true&include_all_commits=true&v=500" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10&v=500" height="200" alt="Top Languages" />
+  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api?username=amanverma0001&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10&hide_rank=true&include_all_commits=true&v=9999" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10&v=9999" height="200" alt="Top Languages" />
 
   <br/>
-  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866&mode=daily&exclude_days=0" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866&mode=daily&exclude_days=1" alt="GitHub Streak" />
 </p>
 
 
@@ -171,7 +171,7 @@ class AmandeepVerma:
 <h2 align="center">🐍 Snake Eating my Github Contributions</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanverma0001/amanverma0001/output/github-contribution-grid-snake-dark.svg?v=10" alt="Contribution Snake">
+  <img src="https://raw.githubusercontent.com/amanverma0001/amanverma0001/output/github-contribution-grid-snake-dark.svg?v=9999" alt="Contribution Snake">
 </p>
 <br>
 
