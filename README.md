@@ -168,24 +168,6 @@ class AmandeepVerma:
 
 ---
 
-## 🧠 Contribution Summary:
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanverma0001&theme=radical&v=10" width="100%" alt="Contribution Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanverma0001&theme=radical&v=10" width="49%" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanverma0001&theme=radical&v=10" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=FF416C&area=true&hide_border=true&v=300" width="100%" alt="Contribution Graph" />
-</p>
-
-
-
----
 <h2 align="center">🐍 Snake Eating my Github Contributions</h2>
 
 <p align="center">
