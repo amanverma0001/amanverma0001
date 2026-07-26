@@ -155,11 +155,10 @@ class AmandeepVerma:
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api?username=amanverma0001&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10&hide_rank=true&include_all_commits=true&v=4" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10&v=4" height="200" alt="Top Languages" />
-
+  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api?username=amanverma0001&show_icons=true&theme=radical&bg_color=0d1117&border_radius=10&hide_rank=true&include_all_commits=true&v=10" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10&v=10" height="200" alt="Top Languages" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866&cache_seconds=0&v=4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866&cache_seconds=0&v=10" alt="GitHub Streak" />
 </p>
 
 
@@ -179,7 +178,7 @@ class AmandeepVerma:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=FF416C&area=true&hide_border=true&v=4" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=react-dark&bg_color=0d1117&color=a855f7&line=a855f7&point=FF416C&area=true&hide_border=true&v=10" width="100%" alt="Contribution Graph" />
 </p>
 
 
