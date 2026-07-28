@@ -160,7 +160,7 @@ class AmandeepVerma:
   <img src="https://github-readme-stats-eta-seven-55.vercel.app/api/top-langs/?username=amanverma0001&layout=compact&theme=radical&bg_color=0d1117&border_radius=10&langs_count=10&v=20250" height="200" alt="Top Languages" />
 
   <br/>
-  <img src="https://streak-stats.demolab.com?user=amanverma0001&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866&v=20260728" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanverma0001&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak" />
 </p>
 
 
