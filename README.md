@@ -60,6 +60,7 @@ class AmandeepVerma:
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **[Build My Resume](https://github.com/amanverma0001/Build-My-Resume)** | Full-stack AI-powered resume builder featuring Groq AI content generation, multi-template ATS optimization, live PDF export, and OCR parsing | React · TypeScript · Node.js · Express · MongoDB · Groq AI · TailwindCSS | [Live](https://buildmyresume.amandeep.fit/) |
 | **[SigmaGPT](https://github.com/amanverma0001/Sigma-GPT)** | Full-stack AI ChatGPT clone featuring Clerk Auth, animated split-screen landing UI, Web Speech voice input, and user-isolated chat history | React · Node.js · Express · MongoDB · Clerk · Web Speech API | [Live](https://sigmagpt.amandeep.fit/) |
 | **[Ignite Fitness](https://github.com/amanverma0001/Fitness-training-app)** | Full-stack AI fitness tracker with Hinglish AI coach (Groq LLaMA 3.3), real-time activity feeds & leaderboards via Socket.io, and live MET calorie tracking | React · Node.js · Express · MongoDB · Socket.io · Groq AI | [Live](https://fitness.amandeep.fit/) |
 | **[Zerodha Clone](https://github.com/amanverma0001/Zerodha-Trading-Application)** | Full-stack stock trading dashboard featuring real-time market price simulation, dynamic portfolio P&L analytics, and Chart.js analytics | React · Node.js · Express · MongoDB · Material-UI · Chart.js | [Live](https://trade.amandeep.fit/) |
