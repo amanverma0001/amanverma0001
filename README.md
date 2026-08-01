@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1Aazbj1R_Z9prucg2JHHMJdHVVAuUGzeq/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1n4v04QbOfhqektZTE6eS7F9gWer6ZnQn/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/RESUME-2D8CFF?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
   &nbsp;&nbsp;
@@ -165,11 +165,10 @@ class AmandeepVerma:
 
 ---
 
-<br>
-
+<h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=radical&bg_color=0D1117&color=FF70A6&line=FF70A6&point=70D6FF&area=true&hide_border=false" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=radical&bg_color=0D1117&color=C084FC&line=C084FC&point=00F5FF&area=true&hide_border=false" alt="Contribution Graph" />
 </p>
 
 <br>
@@ -226,7 +225,7 @@ class AmandeepVerma:
 </a>
   &nbsp;
 
-  <a href="https://drive.google.com/file/d/1Aazbj1R_Z9prucg2JHHMJdHVVAuUGzeq/preview" target="_blank">
+  <a href="https://drive.google.com/file/d/1n4v04QbOfhqektZTE6eS7F9gWer6ZnQn/preview" target="_blank">
     <img src="https://img.shields.io/badge/VIEW%20RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
