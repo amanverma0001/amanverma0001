@@ -163,9 +163,16 @@ class AmandeepVerma:
   <img src="https://github-readme-streak-stats-six-beta.vercel.app/?user=amanverma0001&theme=radical&hide_border=false&border_radius=10&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F8D866&v=30801" alt="GitHub Streak" />
 </p>
 
+---
+
+<br>
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanverma0001&theme=radical&bg_color=0D1117&color=FF70A6&line=FF70A6&point=70D6FF&area=true&hide_border=false" alt="Contribution Graph" />
+</p>
 
+<br>
 
 ---
 
