@@ -49,6 +49,7 @@ class AmandeepVerma:
     goal         = "Build intelligent AI systems that solve real-world problems"
     fun_fact     = "I enjoy solving DSA problems and building AI applications 🤖"
 ```
+- 🌐 **[My Portfolio](https://www.amandeep.fit/)**
 - 🤖 **Building practical AI-powered applications** using Machine Learning & Deep Learning
 - 🧠 **Exploring Large Language Models (LLMs)**, Generative AI, RAG & Computer Vision
 - 💻 **Strengthening Data Structures & Algorithms** through consistent problem solving
