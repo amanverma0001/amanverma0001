@@ -171,7 +171,7 @@ class AmandeepVerma:
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanverma0001/amanverma0001/output/activity-graph.svg?v=30905" alt="Contribution Graph" />
+  <img src="./activity-graph.svg" alt="Contribution Graph" width="100%" />
 </p>
 
 <br>
