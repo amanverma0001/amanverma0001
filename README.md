@@ -171,7 +171,7 @@ class AmandeepVerma:
 <h2 align="center">📈 Contribution Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=amanverma0001&theme=radical&bg_color=0D1117&color=C084FC&line=C084FC&point=00F5FF&area=false&hide_border=true&v=30901" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/amanverma0001/amanverma0001/output/activity-graph.svg?v=30905" alt="Contribution Graph" />
 </p>
 
 <br>
